@@ -1,0 +1,2 @@
+# afxwp
+afx sitefiles
